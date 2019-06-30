@@ -4,3 +4,6 @@
 [submodule "pluginB"]
 	path = pluginB
 	url = https://github.com/rgozim/pluginB.git
+[submodule "pluginC"]
+	path = pluginC
+	url = https://github.com/rgozim/pluginC.git

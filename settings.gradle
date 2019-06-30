@@ -2,3 +2,5 @@ rootProject.name = "composite-plugins"
 
 includeBuild "pluginA"
 includeBuild "pluginB"
+includeBuild "pluginC"
+
